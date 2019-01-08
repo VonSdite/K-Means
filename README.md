@@ -1,5 +1,7 @@
 # KMeans算法实现
 
+**[博客查看网址: https://vonsdite.cn/posts/b62ef61c.html](https://vonsdite.cn/posts/b62ef61c.html)**
+
 ## 项目介绍
 
 **使用前记得先安装相关的包**
